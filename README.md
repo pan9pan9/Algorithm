@@ -1,6 +1,5 @@
 <h1> 🛠️ Algorithm! </h1>
-# For coding tests and self-growth
----
+For coding tests and self-growth
 - Baekjoon
 - Programmers
 
